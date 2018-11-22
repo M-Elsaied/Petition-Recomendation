@@ -1,0 +1,54 @@
+-----------Run for 50 topics ---------------------------------------------
+[(0, u'0.017*"BMC" + 0.010*"Gilroy" + 0.008*"hotel" + 0.008*"water" + 0.008*"Wolf" + 0.007*"resort" + 0.006*"Hecker" + 0.006*"family" + 0.006*"refugee" + 0.006*"wolf"'), Animal Health and Water Pollution
+(1, u'0.027*"County" + 0.022*"Iowa" + 0.022*"county" + 0.017*"farm" + 0.014*"Clay" + 0.012*"factory" + 0.008*"Supervisors" + 0.007*"make" + 0.006*"moratorium" + 0.006*"water"'), Water Pollution
+(2, u'0.035*"water" + 0.019*"pipeline" + 0.013*"plant" + 0.011*"Shasta" + 0.010*"Geyser" + 0.010*"Water" + 0.008*"Otsuka" + 0.008*"Company" + 0.008*"rain" + 0.007*"aquifer"'), Water Pollution
+(3, u'0.031*"Tribe" + 0.016*"Jacob" + 0.015*"substation" + 0.013*"mercury" + 0.010*"trucking" + 0.007*"NOC" + 0.006*"Analysis" + 0.005*"Woods" + 0.005*"Edge" + 0.004*"dental"'), High voltages and Air pollution
+(4, u'0.018*"GST" + 0.006*"starch" + 0.006*"Philippines" + 0.005*"essential" + 0.005*"Holy" + 0.004*"mop" + 0.004*"broken" + 0.004*"church" + 0.004*"comodity" + 0.004*"\u1264\u1270\u12ad\u122d\u1235\u1272\u12eb\u1295"'), Religious practices and environment
+(5, u'0.051*"energy" + 0.024*"power" + 0.017*"solar" + 0.013*"Energy" + 0.012*"electricity" + 0.011*"source" + 0.011*"coal" + 0.009*"renewable" + 0.009*"clean" + 0.008*"Wind"'), Coal Pollution and Renewable Energy
+(6, u'0.014*"District" + 0.010*"LOI" + 0.009*"emission" + 0.009*"commerce" + 0.007*"train" + 0.007*"oyster" + 0.007*"solar" + 0.007*"cost" + 0.007*"school" + 0.006*"Livestock"'), Gas emissions and Renewable Energy
+(7, u'0.022*"die" + 0.019*"der" + 0.014*"und" + 0.009*"von" + 0.007*"werden" + 0.007*"de" + 0.006*"das" + 0.006*"fin" + 0.005*"auf" + 0.005*"des"'),
+(8, u'0.014*"Governor" + 0.013*"Arkansas" + 0.012*"Hutchinson" + 0.010*"Asa" + 0.009*"man" + 0.009*"Irish" + 0.008*"fair" + 0.007*"Perth" + 0.007*"Charlottesville" + 0.006*"arrest"'),
+(9, u'0.007*"year" + 0.006*"people" + 0.006*"state" + 0.005*"government" + 0.005*"life" + 0.005*"farmer" + 0.004*"child" + 0.003*"work" + 0.003*"practice" + 0.003*"case"'),
+(10, u'0.023*"San" + 0.016*"Alabama" + 0.014*"Matrix" + 0.012*"Francisco" + 0.012*"Regents" + 0.011*"Road" + 0.010*"Bridge" + 0.010*"matrix" + 0.008*"boiler" + 0.007*"biomass"'),
+(11, u'0.025*"tree" + 0.010*"city" + 0.009*"City" + 0.008*"light" + 0.007*"area" + 0.006*"Mayor" + 0.006*"cut" + 0.006*"save" + 0.006*"impact" + 0.005*"environment"'), Plant health
+(12, u'0.018*"tax" + 0.009*"state" + 0.008*"increase" + 0.008*"year" + 0.007*"State" + 0.007*"pay" + 0.007*"car" + 0.007*"cost" + 0.006*"vehicle" + 0.006*"reduce"'), Tax pay and Environment
+(13, u'0.011*"DNR" + 0.007*"DUP" + 0.007*"regenerate" + 0.006*"elephant" + 0.005*"deeply" + 0.005*"ash" + 0.005*"Northern" + 0.005*"parliament" + 0.004*"track" + 0.004*"arrest"'), Animal Health
+(14, u'0.013*"che" + 0.007*"Redondo" + 0.007*"USA" + 0.006*"Disney" + 0.006*"World" + 0.006*"del" + 0.006*"una" + 0.005*"carne" + 0.005*"cutlery" + 0.005*"della"'),
+(15, u'0.024*"Pan" + 0.015*"Indigenous" + 0.012*"dam" + 0.009*"National" + 0.006*"Peoples" + 0.006*"Leonard" + 0.006*"Burnaby" + 0.005*"sector" + 0.005*"Cultural" + 0.005*"Survival"'),  Indigenous Rights
+(16, u'0.022*"le" + 0.021*"de" + 0.016*"pour" + 0.016*"dog" + 0.015*"les" + 0.013*"par" + 0.012*"dans" + 0.012*"est" + 0.009*"qui" + 0.009*"Article"'),
+(17, u'0.020*"ordinance" + 0.014*"Ordinance" + 0.011*"Garden" + 0.009*"administrative" + 0.008*"Big" + 0.008*"Valenzuela" + 0.008*"CORE" + 0.008*"Time" + 0.008*"penalty" + 0.007*"Thousand"'), Plant Health
+(18, u'0.028*"food" + 0.024*"waste" + 0.020*"gas" + 0.010*"project" + 0.009*"produce" + 0.008*"make" + 0.008*"reduce" + 0.007*"greenhouse" + 0.006*"year" + 0.006*"fuel"'), Food Waste and gas emissions
+(19, u'0.010*"nuestro" + 0.009*"hemp" + 0.007*"produce" + 0.006*"party" + 0.006*"CBD" + 0.006*"para" + 0.006*"health" + 0.005*"flora" + 0.005*"por" + 0.005*"ANIMAL"'), Animal and plant health
+(20, u'0.008*"ritual" + 0.008*"Bursting" + 0.007*"Kolkata" + 0.007*"Puja" + 0.007*"Court" + 0.006*"honey" + 0.006*"festive" + 0.006*"Study" + 0.006*"tramway" + 0.006*"Virus"'), Religious practices and environment
+(21, u'0.033*"Puerto" + 0.029*"Rico" + 0.016*"Salle" + 0.011*"island" + 0.009*"implement" + 0.007*"Maria" + 0.007*"heritage" + 0.007*"\u0434\u043e\u043b\u0436\u043d\u044b" + 0.006*"AES" + 0.006*"ash"'), Caribbean heritage
+(22, u'0.044*"cracker" + 0.040*"Diwali" + 0.015*"Vestal" + 0.013*"ban" + 0.013*"supervisor" + 0.012*"neighbour" + 0.011*"DNR" + 0.011*"firecracker" + 0.010*"diwali" + 0.010*"Endwell"'), Religious practices and environment
+(23, u'0.014*"Az\xfacar" + 0.013*"Copiapoa" + 0.012*"para" + 0.012*"por" + 0.010*"natural" + 0.010*"Parque" + 0.010*"Nacional" + 0.010*"los" + 0.010*"del" + 0.009*"National"'), Plant health
+(24, u'0.011*"air" + 0.011*"pollution" + 0.006*"health" + 0.006*"condition" + 0.006*"Mumbaikars" + 0.006*"pothole" + 0.005*"Collectif" + 0.005*"leaf" + 0.005*"blower" + 0.005*"Sud"'), Air pollution
+(25, u'0.029*"fur" + 0.018*"Zoo" + 0.017*"Etsy" + 0.014*"Lars" + 0.014*"animal" + 0.013*"Polar" + 0.011*"zoo" + 0.011*"Aalborg" + 0.009*"Bear" + 0.009*"farm"'), Polar bear and Animals Health
+(26, u'0.023*"Skaneateles" + 0.017*"runoff" + 0.016*"FRACKING" + 0.015*"bloom" + 0.011*"algae" + 0.010*"Sydney" + 0.007*"toxic" + 0.007*"lake" + 0.005*"Environmental" + 0.005*"FIRECRACKERS"'), Air pollution
+(27, u'0.009*"Copenhagen" + 0.009*"Trade" + 0.009*"Fair" + 0.007*"Friendship" + 0.006*"click" + 0.006*"Site" + 0.006*"Charleston" + 0.005*"send" + 0.005*"Care" + 0.004*"site"'),
+(28, u'0.017*"area" + 0.015*"resident" + 0.013*"community" + 0.012*"traffic" + 0.010*"propose" + 0.010*"development" + 0.010*"plan" + 0.008*"pollution" + 0.008*"local" + 0.008*"site"'), Pollution
+(29, u'0.034*"waste" + 0.013*"incinerator" + 0.010*"Lough" + 0.009*"impact" + 0.008*"community" + 0.008*"disposal" + 0.008*"Kinarla" + 0.008*"environmental" + 0.007*"Incinerator" + 0.007*"airport"'),Burning Waster and Air pollution
+(30, u'0.025*"tiger" + 0.023*"bear" + 0.015*"polar" + 0.014*"wild" + 0.010*"people" + 0.007*"Sudbury" + 0.007*"animal" + 0.006*"bypass" + 0.006*"kill" + 0.006*"Canada"'), Animal Health and Endangered Species
+(31, u'0.026*"Green" + 0.013*"Party" + 0.009*"campaign" + 0.008*"London" + 0.008*"money" + 0.007*"election" + 0.006*"vote" + 0.006*"council" + 0.005*"Act" + 0.005*"candidate"'), Green Politics
+(32, u'0.026*"pollution" + 0.023*"air" + 0.012*"car" + 0.012*"people" + 0.010*"problem" + 0.009*"health" + 0.009*"make" + 0.009*"environment" + 0.008*"vehicle" + 0.008*"reduce"'), Air pollution
+(33, u'0.019*"change" + 0.017*"climate" + 0.010*"world" + 0.009*"Climate" + 0.009*"global" + 0.008*"people" + 0.007*"make" + 0.007*"country" + 0.006*"future" + 0.006*"Trump"'), Trump and Climate Change
+(34, u'0.024*"health" + 0.013*"tower" + 0.009*"Health" + 0.007*"Styrofoam" + 0.007*"cell" + 0.006*"child" + 0.006*"area" + 0.006*"industry" + 0.006*"air" + 0.006*"effect"'), Non-recycable materials and Environment
+(35, u'0.029*"forest" + 0.017*"tree" + 0.014*"deforestation" + 0.013*"specie" + 0.012*"area" + 0.007*"habitat" + 0.007*"climate" + 0.007*"Deforestation" + 0.006*"animal" + 0.006*"rainforest"'),
+(36, u'0.009*"rezoning" + 0.007*"Tony" + 0.007*"Cambridge" + 0.007*"Abbott" + 0.007*"Cupertino" + 0.007*"Google" + 0.006*"Apple" + 0.006*"whip" + 0.006*"Musk" + 0.005*"Elon"'), Tech Companies Rezoning and Environment
+(37, u'0.050*"student" + 0.049*"school" + 0.018*"University" + 0.013*"campus" + 0.013*"School" + 0.010*"child" + 0.009*"community" + 0.009*"parent" + 0.007*"College" + 0.007*"staff"'),
+(38, u'0.018*"animal" + 0.017*"people" + 0.012*"place" + 0.011*"live" + 0.010*"environment" + 0.009*"land" + 0.007*"clean" + 0.006*"work" + 0.006*"make" + 0.006*"Korea"'), Animal and plant health
+(39, u'0.012*"dam" + 0.012*"bee" + 0.012*"del" + 0.011*"Fig" + 0.009*"una" + 0.008*"zona" + 0.007*"por" + 0.007*"para" + 0.007*"Relleu" + 0.005*"Coastal"'),    Animal and plant health
+(40, u'0.040*"animal" + 0.014*"meat" + 0.012*"dairy" + 0.011*"vegan" + 0.009*"cow" + 0.008*"fracking" + 0.008*"food" + 0.008*"farm" + 0.008*"dog" + 0.007*"school"'), Animal and plant health
+(41, u'0.051*"water" + 0.015*"river" + 0.012*"plant" + 0.008*"River" + 0.008*"fish" + 0.007*"Water" + 0.006*"live" + 0.006*"coal" + 0.005*"lake" + 0.005*"year"'), Water Pollution
+(42, u'0.016*"city" + 0.015*"road" + 0.011*"India" + 0.011*"people" + 0.009*"pollution" + 0.009*"time" + 0.008*"traffic" + 0.007*"vehicle" + 0.007*"government" + 0.006*"day"'),
+(43, u'0.015*"junk" + 0.013*"Linden" + 0.009*"bilaspur" + 0.006*"hai" + 0.005*"flyer" + 0.004*"chhattisgarh" + 0.003*"Builsa" + 0.003*"hardwood" + 0.003*"renovate" + 0.003*"contravene"'), Africa and Asia
+(44, u'0.037*"USA" + 0.017*"Argentina" + 0.016*"canteen" + 0.010*"Americans" + 0.009*"Director" + 0.009*"Women" + 0.009*"song" + 0.009*"National" + 0.008*"Philippines" + 0.008*"Member"'), North and South America
+(45, u'0.014*"Wayne" + 0.012*"UVM" + 0.009*"Davidson" + 0.008*"Vadodara" + 0.008*"Pennsylvania" + 0.007*"Green" + 0.007*"San" + 0.007*"Francisco" + 0.007*"Scottis" + 0.006*"Rec"'), Environment UVM Universal Verification Methodology
+(46, u'0.014*"India" + 0.013*"Dwarka" + 0.010*"pesticide" + 0.010*"Japanese" + 0.010*"Govt" + 0.009*"country" + 0.008*"cigarette" + 0.007*"ban" + 0.007*"Challenge" + 0.006*"Ban"'), Cigarette Ban
+(47, u'0.054*"plastic" + 0.027*"bag" + 0.016*"ocean" + 0.014*"water" + 0.012*"pollution" + 0.011*"year" + 0.010*"environment" + 0.010*"recycle" + 0.009*"make" + 0.009*"trash"'), Plastic Waste
+(48, u'0.035*"oil" + 0.017*"specie" + 0.013*"animal" + 0.013*"seal" + 0.013*"Arctic" + 0.013*"kill" + 0.012*"palm" + 0.010*"reef" + 0.010*"coral" + 0.009*"bear"'), Arctic and Animal Health
+(49, u'0.011*"people" + 0.011*"lake" + 0.010*"packaging" + 0.008*"day" + 0.008*"business" + 0.007*"North" + 0.007*"end" + 0.006*"problem" + 0.006*"company" + 0.006*"Portland"')]  Animal and plant health
+-------------------------------------------------------------------------
+perplexity =-1550124.16748
+-----------Run for 50 topics ---------------------------------------------

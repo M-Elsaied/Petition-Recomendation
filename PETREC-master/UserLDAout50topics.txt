@@ -1,0 +1,54 @@
+-----------Run for 50 topics ---------------------------------------------
+[(0, u'0.010*"sonny" + 0.009*"barisi" + 0.008*"barba" + 0.007*"edit" + 0.007*"svu" + 0.004*"dmkr" + 0.004*"yall" + 0.003*"DREAMAct" + 0.003*"HeretoStay" + 0.003*"queer"'),
+(1, u'0.010*"pra" + 0.010*"n\xe3o" + 0.008*"meu" + 0.007*"uma" + 0.006*"mais" + 0.006*"minha" + 0.006*"dia" + 0.005*"nao" + 0.005*"tem" + 0.005*"isso"'),
+(2, u'0.041*"TheResistance" + 0.009*"America" + 0.009*"HATE" + 0.009*"House" + 0.008*"White" + 0.008*"Time" + 0.008*"rid" + 0.007*"place" + 0.007*"racist" + 0.007*"minion"'), American Politics
+(3, u'0.012*"vous" + 0.007*"htts" + 0.005*"Assad" + 0.005*"peup" + 0.004*"Isra\xebl" + 0.004*"Vous" + 0.003*"DuPou" + 0.002*"pa" + 0.002*"sot" + 0.002*"sionistes"'),
+(4, u'0.008*"support" + 0.004*"SaveGhouta" + 0.004*"UKAid" + 0.003*"tomorrow" + 0.003*"amendment" + 0.003*"pledge" + 0.003*"ProudOfAid" + 0.003*"transparency" + 0.003*"refugee" + 0.002*"ShowMeTheMoney"'), Syrian Politics
+(5, u'0.010*"vote" + 0.010*"stand" + 0.009*"Act" + 0.007*"protect" + 0.006*"Sign" + 0.006*"Support" + 0.006*"Americans" + 0.005*"Reject" + 0.005*"Congress" + 0.005*"anna"'),American Politics
+(6, u'0.004*"good" + 0.004*"time" + 0.003*"lfc" + 0.003*"day" + 0.003*"make" + 0.003*"bbcqt" + 0.002*"Hey" + 0.002*"thing" + 0.002*"Good" + 0.002*"year"'), Liverpool soccer
+(7, u'0.006*"SosLupo" + 0.006*"MLN" + 0.006*"CacciaunNo" + 0.005*"StandForWolves" + 0.004*"RoadSafety" + 0.004*"notmypresident" + 0.003*"che" + 0.002*"MQLN" + 0.002*"PrometnaVarnost" + 0.002*"BLM"'), Road Safety
+(8, u'0.022*"los" + 0.021*"por" + 0.018*"para" + 0.011*"como" + 0.010*"del" + 0.010*"una" + 0.006*"m\xe1s" + 0.006*"pero" + 0.006*"la" + 0.005*"Colombia"'),
+(9, u'0.014*"Labour" + 0.007*"year" + 0.006*"party" + 0.006*"good" + 0.006*"vote" + 0.006*"read" + 0.005*"grOVER" + 0.005*"Journal" + 0.005*"Tories" + 0.005*"leave"'), UK Conservative Party
+(10, u'0.009*"FEMENINA" + 0.004*"una" + 0.004*"por" + 0.003*"pero" + 0.003*"para" + 0.002*"qu\xe9" + 0.002*"amor" + 0.002*"communication" + 0.002*"Jajajaja" + 0.002*"tan"'),
+(11, u'0.026*"animal" + 0.019*"Blackfish" + 0.016*"foiegras" + 0.014*"banfoiegras" + 0.009*"dolphin" + 0.009*"dog" + 0.008*"kill" + 0.008*"Taiji" + 0.008*"sealhunt" + 0.007*"FreeLolita"'), Animal rights
+(12, u'0.007*"para" + 0.006*"Lulla" + 0.005*"MAGA" + 0.004*"LIGAAGUILAxWIN" + 0.004*"mute" + 0.004*"LaLigaxRCN" + 0.003*"Junior" + 0.003*"est\xe1" + 0.003*"\u5bae\u5cf6\u306e\u9e7f" + 0.003*"Temer"'),
+(13, u'0.012*"por" + 0.012*"los" + 0.010*"una" + 0.009*"para" + 0.008*"como" + 0.007*"m\xe1s" + 0.006*"pero" + 0.005*"ser" + 0.005*"cuando" + 0.004*"son"'),
+(14, u'0.007*"quote" + 0.007*"att" + 0.007*"det" + 0.006*"htts" + 0.005*"man" + 0.005*"Blocked" + 0.005*"great" + 0.004*"och" + 0.004*"support" + 0.004*"troll"'),
+(15, u'0.012*"wit" + 0.008*"ttot" + 0.007*"til" + 0.007*"love" + 0.005*"work" + 0.004*"thou" + 0.004*"time" + 0.004*"share" + 0.004*"Watching" + 0.004*"horse"'),
+(16, u'0.012*"por" + 0.009*"pero" + 0.007*"LaLuzDeMisOjos" + 0.007*"una" + 0.007*"como" + 0.007*"para" + 0.006*"los" + 0.005*"todo" + 0.005*"qu\xe9" + 0.005*"gracias"'),
+(17, u'0.004*"vote" + 0.004*"UpgradeYourWorldUSA" + 0.004*"Vote" + 0.001*"\u0447\u0442\u043e" + 0.001*"WeObject" + 0.001*"expense" + 0.001*"retweet" + 0.001*"Gaag" + 0.001*"disgust" + 0.001*"Zochepad"'),
+(18, u'0.130*"NowPlaying" + 0.019*"Band" + 0.018*"Organ" + 0.015*"Wurlitzer" + 0.015*"Park" + 0.012*"Seabreeze" + 0.010*"Jeff" + 0.010*"Style" + 0.009*"Bristol" + 0.008*"Mountain"'), Music
+(19, u'0.018*"StopYuLinFest" + 0.006*"pero" + 0.005*"una" + 0.005*"por" + 0.005*"Festival" + 0.004*"para" + 0.004*"YuLin" + 0.004*"los" + 0.003*"como" + 0.003*"China"'),
+(20, u'0.002*"\u7d76\u6ec5\u5371\u60e7\u7a2e" + 0.001*"\u3069\u3046\u3076\u3064\u306f\u3042\u306a\u305f\u306e\u3054\u306f\u3093\u3058\u3083\u306a\u3044" + 0.001*"\u8089\u98df\u53cd\u5bfe" + 0.001*"cooRIKU\u4e0b\u5317\u6ca2\u5e97" + 0.001*"\u30ca\u30ac\u30b9" + 0.001*"\u6c34\u65cf\u9928" + 0.001*"\u938c\u5009\u4e03\u798f\u795e\u3081\u3050\u308a" + 0.001*"being" + 0.001*"\u4fdd\u8b77\u732b" + 0.001*"LOVE"'),
+(21, u'0.030*"RTRTRTRTR" + 0.006*"SAV" + 0.005*"Peace" + 0.004*"och" + 0.003*"DUMPED" + 0.003*"det" + 0.003*"art" + 0.003*"KARMA" + 0.002*"att" + 0.002*"WIL"'),
+(22, u'0.010*"Trump" + 0.009*"people" + 0.006*"yyccc" + 0.004*"make" + 0.004*"vote" + 0.004*"yyc" + 0.004*"time" + 0.003*"support" + 0.003*"money" + 0.003*"work"'), American Politics
+(23, u'0.025*"win" + 0.018*"NOALMALTRATOANIMAL" + 0.007*"Follow" + 0.006*"enter" + 0.006*"COYS" + 0.006*"shirt" + 0.006*"haha" + 0.006*"follow" + 0.005*"Win" + 0.004*"Muy"'), Soccer
+(24, u'0.008*"drink" + 0.007*"machine" + 0.006*"incup" + 0.005*"vend" + 0.003*"hot" + 0.002*"business" + 0.002*"customer" + 0.002*"snack" + 0.002*"meeting" + 0.002*"supply"'), Food & business
+(25, u'0.004*"great" + 0.004*"work" + 0.004*"day" + 0.003*"today" + 0.003*"year" + 0.003*"love" + 0.003*"support" + 0.002*"good" + 0.002*"email" + 0.002*"hear"'),
+(26, u'0.012*"xxx" + 0.009*"die" + 0.007*"ist" + 0.007*"Mumbai" + 0.007*"f\xfcr" + 0.006*"der" + 0.005*"und" + 0.005*"Aarey" + 0.005*"auf" + 0.005*"ein"'),
+(27, u'0.022*"\u0627\u0644\u0644\u0647\u0645" + 0.019*"Good" + 0.016*"\u0627\u0644\u0644\u0647" + 0.008*"\u0648\u0646\u0639\u0645" + 0.008*"\u0627\u0644\u0648\u0643\u064a\u0644" + 0.008*"\u0648\u0645\u0646" + 0.007*"\u062d\u0633\u0628\u0646\u0627" + 0.005*"rilliant" + 0.004*"Absolutely" + 0.004*"Anne"'),
+(28, u'0.007*"por" + 0.005*"los" + 0.005*"ma" + 0.004*"farc" + 0.003*"Los" + 0.003*"LOS" + 0.002*"seguirme" + 0.002*"Gachantiva" + 0.002*"pendejo" + 0.002*"esta"'),
+(29, u'0.006*"sale" + 0.006*"ring" + 0.006*"Ring" + 0.005*"handmade" + 0.005*"gift" + 0.004*"day" + 0.004*"Grab" + 0.004*"lovely" + 0.004*"Berry" + 0.003*"great"'), Food & business
+(30, u'0.015*"het" + 0.014*"van" + 0.014*"een" + 0.014*"niet" + 0.012*"ook" + 0.008*"houtook" + 0.007*"geen" + 0.007*"voo" + 0.006*"dit" + 0.006*"mee"'),
+(31, u'0.030*"friend" + 0.022*"PrimaryRocks" + 0.013*"Good" + 0.009*"Beautiful" + 0.008*"day" + 0.007*"Signed" + 0.007*"morning" + 0.007*"Amen" + 0.006*"dude" + 0.006*"share"'), Positivity
+(32, u'0.041*"listening" + 0.007*"Remix" + 0.006*"Dead" + 0.005*"favor" + 0.005*"Shithole" + 0.005*"Shithouse" + 0.005*"Drop" + 0.004*"love" + 0.004*"fuck" + 0.004*"listen"'), Music
+(33, u'0.013*"happydays" + 0.007*"morning" + 0.005*"today" + 0.004*"time" + 0.004*"work" + 0.004*"animal" + 0.004*"support" + 0.004*"make" + 0.004*"love" + 0.003*"great"'),Positivity
+(34, u'0.012*"Sigan" + 0.012*"SiguemeYTesigo" + 0.012*"FOLLOWBACKSEGURO" + 0.012*"FOLLOWBACK" + 0.011*"seguro" + 0.011*"RETWEET" + 0.009*"OpSerenaShim" + 0.007*"le" + 0.005*"SerenaShim" + 0.005*"Yemen"'), N/A
+(35, u'0.013*"een" + 0.013*"niet" + 0.011*"het" + 0.009*"van" + 0.008*"voor" + 0.008*"dat" + 0.006*"ook" + 0.006*"wel" + 0.005*"meet" + 0.005*"nog"'),
+(36, u'0.015*"day" + 0.009*"today" + 0.009*"good" + 0.008*"work" + 0.008*"time" + 0.008*"love" + 0.007*"great" + 0.006*"year" + 0.005*"morning" + 0.005*"make"'), Positivity
+(37, u'0.008*"love" + 0.006*"great" + 0.005*"time" + 0.005*"good" + 0.005*"day" + 0.004*"work" + 0.004*"people" + 0.004*"watch" + 0.004*"year" + 0.004*"make"'), Positivity
+(38, u'0.003*"Qu\xe9" + 0.002*"QU\xc9" + 0.001*"Pues" + 0.001*"LOS" + 0.001*"qu\xe9" + 0.001*"MUCHOS" + 0.001*"Pero" + 0.001*"SIEMPRE" + 0.001*"MAS" + 0.001*"\u5973\u6027\u81ea\u8eab"'),
+(39, u'0.003*"usted" + 0.003*"lrt" + 0.003*"lcalde" + 0.003*"jeff" + 0.002*"Tunja" + 0.002*"FUERPETRO" + 0.002*"gay" + 0.002*"goldblum" + 0.002*"LOVE" + 0.002*"JuntosPorElManzanares"'),
+(40, u'0.013*"love" + 0.009*"day" + 0.008*"good" + 0.008*"time" + 0.008*"make" + 0.007*"tomorrow" + 0.006*"feel" + 0.006*"people" + 0.005*"life" + 0.005*"thing"'), Positivity
+(41, u'0.012*"TWD" + 0.007*"love" + 0.007*"hope" + 0.006*"Happy" + 0.005*"awesome" + 0.004*"wait" + 0.004*"day" + 0.003*"Max" + 0.003*"amazing" + 0.003*"freakin"'), Positivity
+(42, u'0.009*"Ustad" + 0.008*"BloodLionsSA" + 0.008*"PrinceOfWalesWolves" + 0.008*"wildlife" + 0.007*"wolf" + 0.007*"kill" + 0.006*"Stop" + 0.006*"Lions" + 0.006*"lion" + 0.005*"Blood"'), Animal rights
+(43, u'0.026*"pa" + 0.019*"pour" + 0.016*"est" + 0.015*"qui" + 0.013*"de" + 0.013*"une" + 0.012*"vous" + 0.010*"les" + 0.008*"bien" + 0.008*"dans"'),
+(44, u'0.006*"good" + 0.005*"people" + 0.004*"work" + 0.004*"great" + 0.003*"think" + 0.003*"time" + 0.002*"love" + 0.002*"hope" + 0.002*"make" + 0.002*"pay"'), Positivity
+(45, u'0.014*"che" + 0.008*"una" + 0.007*"Hipertensi\xf3nPulmonar" + 0.006*"pacientes" + 0.005*"sobre" + 0.004*"del" + 0.004*"para" + 0.004*"An\xf3nimo" + 0.004*"pi\xf9" + 0.003*"comunidad"'),
+(46, u'0.018*"follow" + 0.008*"work" + 0.005*"protect" + 0.005*"Hey" + 0.004*"great" + 0.004*"Love" + 0.004*"love" + 0.004*"forward" + 0.003*"make" + 0.003*"solidarity"'), Positivity
+(47, u'0.017*"por" + 0.011*"para" + 0.009*"los" + 0.008*"una" + 0.007*"como" + 0.006*"pero" + 0.006*"amor" + 0.006*"quiero" + 0.005*"ser" + 0.005*"todo"'),
+(48, u'0.005*"stove" + 0.005*"emission" + 0.004*"smoke" + 0.004*"song" + 0.004*"tree" + 0.003*"tweet" + 0.003*"Open" + 0.003*"Magurany" + 0.003*"lie" + 0.003*"pollution"'), Pollution
+(49, u'0.008*"animal" + 0.006*"channel" + 0.006*"subscribe" + 0.004*"OpKillingBay" + 0.003*"Sooyoung" + 0.003*"v\xeda" + 0.003*"win" + 0.002*"Vegan" + 0.002*"Fargo" + 0.002*"wife"')] Animal rights
+-------------------------------------------------------------------------
+perplexity =-2333699.15979
+-----------Run for 50 topics ---------------------------------------------
